@@ -16,7 +16,7 @@ En main, instancia varios perros diferentes y muestra su información.
 
 (*) EXTRA: - Un id del tipo UUID random (investigar qué es esto)
 
-2- Llega Black Friday en tu tienda online de teléfonos móviles y decides ofrecer un 20% de descuento en todos tus productos.
+ 2- Llega Black Friday en tu tienda online de teléfonos móviles y decides ofrecer un 20% de descuento en todos tus productos.
 
 Instancia algunos móviles para probar.
 
